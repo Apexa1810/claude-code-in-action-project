@@ -1,5 +1,6 @@
-// Small practice module for Claude to work on.
 
+// Small practice module for Claude to work on.
+//2nd commit
 function add(a, b) {
   return a + b;
 }
