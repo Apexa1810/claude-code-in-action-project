@@ -1,0 +1,9 @@
+{
+  "name": "claude-code-in-action-project",
+  "version": "1.0.0",
+  "description": "Practice project for every example in the Claude Code in Action course",
+  "type": "commonjs",
+  "scripts": {
+    "test": "node --test tests/app.test.js"
+  }
+}

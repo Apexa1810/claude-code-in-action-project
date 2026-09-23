@@ -1,0 +1,2 @@
+- Run tests with `npm test` after every code change.
+- Put tests in `tests/`, using `node:test` and `node:assert`.

@@ -1,0 +1,2 @@
+- Declare functions with the `function` keyword, not arrow functions.
+- Use CommonJS (`require` / `module.exports`), not ES modules.

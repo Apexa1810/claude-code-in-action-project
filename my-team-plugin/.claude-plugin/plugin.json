@@ -1,0 +1,6 @@
+{
+  "name": "my-team-plugin",
+  "version": "1.0.0",
+  "description": "Our team's verify skill plus secret-redaction, push-guard, syntax-check and test-gate hooks.",
+  "author": { "name": "Your Team" }
+}
